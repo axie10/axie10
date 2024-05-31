@@ -12,7 +12,7 @@
 </p>-->
 
 <!-- Sección de acerca de mí -->
-<h2>Sobre mí</h2>
+<h2>Sobre mí :smiley:</h2>
 <p>
   Graduado en Turismo & Graduado en Desarrollo de Aplicaciones Web
 <p>
