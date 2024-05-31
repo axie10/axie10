@@ -27,14 +27,6 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,discord,docker,github,gmail,jquery,mongodb,nestjs,npm,php,postman" alt="HTML5">
 </p>
 
-<h3>Datos estadisticos de code :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
 <!-- Sección de proyectos destacados -->
 <h2>Proyectos Destacados</h2>
 <ul>
