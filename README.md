@@ -21,7 +21,7 @@
 <h2>Habilidades</h2>
 <p align="left">
   <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="HTML5">
   <!-- CSS3 -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <!-- JavaScript -->
@@ -59,7 +59,6 @@
 
 <!-- Iconos de redes sociales (opcional) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/tu-perfil/"><img src="https://img.shields.io/badge/-Twitter-blue" alt="Twitter"></a>
-  <a href="mailto:tu.email@example.com"><img src="https://img.shields.io/badge/-Email-red" alt="Email"></a>
+  <a href="www.linkedin.com/in/josé-manuel-mosquete-abreu-662691166"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
+  <a href="jmma1995@gmail.com"><img src="https://img.shields.io/badge/-Email-red" alt="Email"></a>
 </p>
