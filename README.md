@@ -14,6 +14,9 @@
 <!-- Sección de acerca de mí -->
 <h2>Sobre mí</h2>
 <p>
+  Graduado en Turismo & Graduado en Desarrollo de Aplicaciones Web
+<p>
+<p>
   Soy un desarrollador web con experiencia en tecnologías como HTML, CSS, JavaScript, y Angular. Me apasiona crear aplicaciones web eficientes y bien diseñadas. Actualmente, estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en el desarrollo full-stack.
 </p>
 
@@ -36,7 +39,7 @@
 <h2>Proyectos Destacados</h2>
 <ul>
   <li>
-    <strong>Proyecto 1:</strong> <a href="https://asstrom.es/home">Portafolio</a>
+    <strong>Proyecto 1:</strong> <a href="https://asstrom.es/home">asstrom</a>
     <br />
     Portafolio web desarrolldo en Angular. Incluye varias conexiones a API como la de wheaterapp, mapbox y restcountries.
     Ademas incluye una aplicacion de tareas, un login y registro. Todo ello jugando con el localstorage y el sessionstorage.
