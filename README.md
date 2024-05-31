@@ -17,18 +17,6 @@
   Soy un desarrollador web con experiencia en tecnologías como HTML, CSS, JavaScript, y Angular. Me apasiona crear aplicaciones web eficientes y bien diseñadas. Actualmente, estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en el desarrollo full-stack.
 </p>
 
-<!-- Sección de habilidades -->
-<h2>Habilidades</h2>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript (ES6+)</li>
-  <li>Angular</li>
-  <li>React</li>
-  <li>Nest.js</li>
-  <li>Git y GitHub</li>
-</ul>
-
 <!-- Habilidades con iconos -->
 <h2>Habilidades</h2>
 <p align="left">
@@ -40,10 +28,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <!-- Angular -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <!-- Nest.js -->
+  <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <!-- GitHub -->
