@@ -21,19 +21,7 @@
 <h2>Habilidades</h2>
 <p align="left">
   <!-- HTML5 -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="HTML5">
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <!-- Angular -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <!-- Nest.js -->
-  <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,php,nest.js" alt="HTML5">
 </p>
 
 <!-- Sección de proyectos destacados -->
