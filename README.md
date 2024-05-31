@@ -33,14 +33,10 @@
 <h2>Proyectos Destacados</h2>
 <ul>
   <li>
-    <strong>Proyecto 1:</strong> <a href="URL_DEL_PROYECTO">Nombre del Proyecto</a>
+    <strong>Proyecto 1:</strong> <a href="https://asstrom.es/home">Portafolio</a>
     <br />
-    Descripción breve del proyecto.
-  </li>
-  <li>
-    <strong>Proyecto 2:</strong> <a href="URL_DEL_PROYECTO">Nombre del Proyecto</a>
-    <br />
-    Descripción breve del proyecto.
+    Portafolio web desarrolldo en Angular. Incluye varias conexiones a API como la de wheaterapp, mapbox y restcountries.
+    Ademas incluye una aplicacion de tareas, un login y registro. Todo ello jugando con el localstorage y el sessionstorage.
   </li>
 </ul>
 
@@ -49,9 +45,8 @@
 <p>
   Si deseas ponerte en contacto conmigo, puedes encontrarme en:
   <ul>
-    <li><a href="https://www.linkedin.com/in/tu-perfil/">LinkedIn</a></li>
-    <li><a href="https://twitter.com/tu-perfil/">Twitter</a></li>
-    <li><a href="mailto:tu.email@example.com">Correo Electrónico</a></li>
+    <li><a href="https://www.linkedin.com/in/josemanuelmosqueteabreu/">LinkedIn</a></li>
+    <li><a href="jmma1995@gmail.com">Correo Electrónico</a></li>
   </ul>
 </p>
 
