@@ -14,10 +14,10 @@
 <!-- Sección de acerca de mí -->
 <h2>Sobre mí :smiley:</h2>
 <p>
-  Graduado en Turismo & Graduado en Desarrollo de Aplicaciones Web
+  :mortar_board: Graduado en Turismo & Graduado en Desarrollo de Aplicaciones Web
 <p>
 <p>
-  Soy un desarrollador web con experiencia en tecnologías como HTML, CSS, JavaScript, y Angular. Me apasiona crear aplicaciones web eficientes y bien diseñadas. Actualmente, estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en el desarrollo full-stack.
+  :computer: Soy un desarrollador web con experiencia en tecnologías como HTML, CSS, JavaScript, y Angular. Me apasiona crear aplicaciones web eficientes y bien diseñadas. Actualmente, estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en el desarrollo full-stack.
 </p>
 
 <!-- Habilidades con iconos -->
