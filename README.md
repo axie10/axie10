@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,discord,docker,github,gmail,jquery,mongodb,nestjs,npm,php,postman" alt="HTML5">
 </p>
 <h2>Estadísticas</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axie10)](https://github.com/axie10/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axie10)]
 
 <!-- Sección de proyectos destacados -->
 <h2>Proyectos Destacados</h2>
