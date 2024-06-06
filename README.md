@@ -27,6 +27,8 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,discord,docker,github,gmail,jquery,mongodb,nestjs,npm,php,postman" alt="HTML5">
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axie10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Sección de proyectos destacados -->
 <h2>Proyectos Destacados</h2>
 <ul>
