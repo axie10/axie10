@@ -79,13 +79,6 @@
     <img src="https://skillicons.dev/icons?i=openshift" width="65" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redhat" width="65" />
-  </a>
-</p>
-
-
 
 
 <!-- Sección de proyectos destacados -->
