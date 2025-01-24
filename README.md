@@ -17,7 +17,15 @@
   :mortar_board: Graduado en Turismo & Graduado en Desarrollo de Aplicaciones Web
 <p>
 <p>
-  :computer: Soy un desarrollador web con experiencia en tecnologías como HTML, CSS, JavaScript, y Angular. Me apasiona crear aplicaciones web eficientes y bien diseñadas. Actualmente, estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en el desarrollo full-stack.
+  🎓 De los viajes al código: un graduado en Turismo que conquistó el mundo del Desarrollo Web
+
+💻 Mi viaje comenzó con una sólida formación en tecnologías como HTML, CSS, JavaScript y, especialmente, Angular, donde desarrollé varios proyectos que me ayudaron a afianzar mis habilidades en el frontend.
+
+🚀 Durante el último año, me sumergí en el ecosistema de React y Node.js, trabajando en el desarrollo e implementación de la plataforma Backstage, una solución innovadora que me permitió ampliar mis conocimientos en el desarrollo full-stack.
+
+🔄 Ahora, vuelvo a trabajar en proyectos con Angular, redescubriendo su potencial y aplicando lo aprendido en mi experiencia previa para crear aplicaciones aún más sólidas y eficientes.
+
+🌟 Mi filosofía es clara: cada nueva tecnología es una oportunidad para seguir aprendiendo, creciendo y aportando valor a través del código. ¡Estoy listo para enfrentar cualquier desafío que venga!
 </p>
 
 <!-- Habilidades con iconos -->
