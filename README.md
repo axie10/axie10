@@ -14,9 +14,6 @@
 <!-- Sección de acerca de mí -->
 <h2>Sobre mí :smiley:</h2>
 <p>
-  :mortar_board: Graduado en Turismo & Graduado en Desarrollo de Aplicaciones Web
-<p>
-<p>
   🎓 De los viajes al código: un graduado en Turismo que conquistó el mundo del Desarrollo Web
 
 💻 Mi viaje comenzó con una sólida formación en tecnologías como HTML, CSS, JavaScript y, especialmente, Angular, donde desarrollé varios proyectos que me ayudaron a afianzar mis habilidades en el frontend.
