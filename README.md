@@ -24,7 +24,7 @@
 <h2>Habilidades</h2>
 <p align="left">
   <!-- HTML5 -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,discord,docker,github,gmail,jquery,mongodb,nestjs,npm,php,postman" alt="HTML5">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,discord,docker,github,gmail,jquery,mongodb,nestjs,npm,php,postman,react,angular" alt="HTML5">
 </p>
 
 
