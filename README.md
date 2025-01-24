@@ -23,42 +23,63 @@
 <!-- Habilidades con iconos -->
 <h2 align="center">Habilidades</h2>
 
+<!-- Habilidades con iconos -->
+<h2 align="center">Habilidades</h2>
+
+<!-- Fila superior -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html" width="65" />
   </a>
 </p>
 
+<!-- Segunda fila -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css" width="65" />
     <img src="https://skillicons.dev/icons?i=ts" width="65" />
-    <img src="https://skillicons.dev/icons?i=js" width="65" />
   </a>
 </p>
 
+<!-- Tercera fila -->
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" width="65" />
     <img src="https://skillicons.dev/icons?i=npm" width="65" />
     <img src="https://skillicons.dev/icons?i=react" width="65" />
+  </a>
+</p>
+
+<!-- Cuarta fila -->
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular" width="65" />
     <img src="https://skillicons.dev/icons?i=nodejs" width="65" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github" width="65" />
     <img src="https://skillicons.dev/icons?i=gitlab" width="65" />
-    <img src="https://skillicons.dev/icons?i=docker" width="65" />
   </a>
 </p>
 
+<!-- Quinta fila -->
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="65" />
+    <img src="https://skillicons.dev/icons?i=materialui" width="65" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65" />
+    <img src="https://skillicons.dev/icons?i=docker" width="65" />
     <img src="https://skillicons.dev/icons?i=mongodb" width="65" />
   </a>
 </p>
+
+<!-- Sexta fila -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" width="65" />
+    <img src="https://skillicons.dev/icons?i=openshift" width="65" />
+    <img src="https://skillicons.dev/icons?i=redhat" width="65" />
+  </a>
+</p>
+
 
 
 
