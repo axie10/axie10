@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,github,gitlab" />
   </a>
 </p>
 <p align="center">
@@ -39,12 +39,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,postman,linux,openshift,redhat" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,linux,openshift,redhat" />
   </a>
 </p>
 
