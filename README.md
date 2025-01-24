@@ -22,10 +22,32 @@
 
 <!-- Habilidades con iconos -->
 <h2>Habilidades</h2>
-<p align="left">
-  <!-- HTML5 -->
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,ts,js,bootstrap,discord,docker,github,jquery,mongodb,npm,php,postman" alt="HTML5">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,npm" />
+  </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,postman,linux,openshift,redhat" />
+  </a>
+</p>
+
 
 
 <!-- Sección de proyectos destacados -->
