@@ -23,13 +23,10 @@
 <!-- Habilidades con iconos -->
 <h2 align="center">Habilidades</h2>
 
-<!-- Habilidades con iconos -->
-<h2 align="center">Habilidades</h2>
-
 <!-- Fila superior -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" width="65" />
+    <img src="https://skillicons.dev/icons?i=html"/>
   </a>
 </p>
 
