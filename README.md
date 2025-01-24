@@ -26,7 +26,7 @@
 <!-- Fila superior -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=html" width="65"/>
   </a>
 </p>
 
