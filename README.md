@@ -21,8 +21,6 @@
 🚀 Durante el último año, me sumergí en el ecosistema de React y Node.js, trabajando en el desarrollo e implementación de la plataforma Backstage, una solución innovadora que me permitió ampliar mis conocimientos en el desarrollo full-stack.
 
 🔄 Ahora, vuelvo a trabajar en proyectos con Angular, redescubriendo su potencial y aplicando lo aprendido en mi experiencia previa para crear aplicaciones aún más sólidas y eficientes.
-
-🌟 Mi filosofía es clara: cada nueva tecnología es una oportunidad para seguir aprendiendo, creciendo y aportando valor a través del código. ¡Estoy listo para enfrentar cualquier desafío que venga!
 </p>
 
 <!-- Habilidades con iconos -->
