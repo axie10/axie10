@@ -1,3 +1,4 @@
+![Header](./github-header.png)
 <!-- Encabezado principal -->
 <h1 align="center">¡Hola! Soy Manu 👋</h1>
 
