@@ -4,7 +4,7 @@
 
 <!-- Descripción breve -->
 <p align="center">
-  Desarrollador Web | Apasionado por la Tecnología | Aprendiendo y Creciendo 🚀
+  Software developer | Blockchain engernieer 🚀
 </p>
 
 <!-- Imagen de banner (opcional)
