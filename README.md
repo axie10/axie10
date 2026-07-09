@@ -86,7 +86,7 @@
 
 
 <!-- Sección de proyectos destacados -->
-<h2>Proyectos Destacados</h2>
+<!--<h2>Proyectos Destacados</h2>
 <ul>
   <li>
     <strong>Proyecto 1:</strong> <a href="https://asstrom.es/home">asstrom</a>
@@ -94,7 +94,7 @@
     Portafolio web desarrolldo en Angular. Incluye varias conexiones a API como la de wheaterapp, mapbox y restcountries.
     Ademas incluye una aplicacion de tareas, un login y registro. Todo ello jugando con el localstorage y el sessionstorage.
   </li>
-</ul>
+</ul> -->
 
 <!-- Sección de contacto -->
 <h2>Contacto</h2>
