@@ -75,6 +75,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=axie10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 <br/>
+
 ## Let's Connect
  
 I'm actively looking for Blockchain Engineer / Solidity Developer roles. Open to remote opportunities worldwide.
