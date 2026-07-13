@@ -7,6 +7,7 @@
   Building on Ethereum with 2.5 years of production software engineering experience.
 </p>
 <br/>
+
 ## About Me
  
 I'm a Software Engineer with 2.5 years of professional experience building production applications with Angular, React and Node.js — including enterprise platforms, CI/CD pipelines and full-stack features used by real teams.
@@ -19,6 +20,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
 - Full-stack thinking: I can build the smart contract AND the frontend that interacts with it
 - Professional development practices: testing, documentation, PR reviews, agile workflows
 <br/>
+
 ## Tech Stack
  
 **Blockchain & Web3**
