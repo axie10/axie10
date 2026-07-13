@@ -77,7 +77,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
 I'm actively looking for Blockchain Engineer / Solidity Developer roles. Open to remote opportunities worldwide.
  
 <p>
-  <a href="https://www.linkedin.com/in/josemanuelmosqueteabreu/">
+  <a href="www.linkedin.com/in/josé-manuel-mosquete-abreu-662691166">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jmma1995@gmail.com">
