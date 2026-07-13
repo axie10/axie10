@@ -70,7 +70,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axie10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axie10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 <br/>
 ## Let's Connect
