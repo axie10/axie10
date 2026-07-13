@@ -1,113 +1,87 @@
 ![Header](./github-header-banner.png)
-<!-- Encabezado principal -->
-<h1 align="center">¡Hola! Soy Manu 👋</h1>
-
-<!-- Descripción breve -->
+ 
+<h1 align="center">Hey, I'm Manu 👋</h1>
+ 
 <p align="center">
-  Software developer | Blockchain engernieer 🚀
+  <strong>Software Engineer → Blockchain Engineer</strong><br/>
+  Building on Ethereum with 2.5 years of production software engineering experience.
 </p>
-
-<!-- Imagen de banner (opcional)
-<p align="center">
-  <img src="URL_DE_TU_BANNER" alt="Banner" width="600" />
-</p>-->
-
-<!-- Sección de acerca de mí -->
-<h2>Sobre mí :smiley:</h2>
+<br/>
+## About Me
+ 
+I'm a Software Engineer with 2.5 years of professional experience building production applications with Angular, React and Node.js — including enterprise platforms, CI/CD pipelines and full-stack features used by real teams.
+ 
+Now I'm channeling that engineering foundation into blockchain. I'm completing an advanced Blockchain & Solidity program and actively building smart contracts, dApps and Web3 integrations. My goal is to bring professional software engineering practices — clean architecture, testing, documentation, code review — into everything I build on-chain.
+ 
+**What I bring to blockchain that most junior candidates don't:**
+- Real production experience shipping software in professional teams
+- Understanding of CI/CD, version control workflows and code quality standards
+- Full-stack thinking: I can build the smart contract AND the frontend that interacts with it
+- Professional development practices: testing, documentation, PR reviews, agile workflows
+<br/>
+## Tech Stack
+ 
+**Blockchain & Web3**
+ 
 <p>
-  🎓 De los viajes al código: un graduado en Turismo que conquistó el mundo del Desarrollo Web
-
-💻 Mi viaje comenzó con una sólida formación en tecnologías como HTML, CSS, JavaScript y, especialmente, Angular, donde desarrollé varios proyectos que me ayudaron a afianzar mis habilidades en el frontend.
-
-🚀 Durante el último año, me sumergí en el ecosistema de React y Node.js, trabajando en el desarrollo e implementación de la plataforma Backstage, una solución innovadora que me permitió ampliar mis conocimientos en el desarrollo full-stack.
-
-🔄 Ahora, vuelvo a trabajar en proyectos con Angular, redescubriendo su potencial y aplicando lo aprendido en mi experiencia previa para crear aplicaciones aún más sólidas y eficientes.
+  <img src="https://skillicons.dev/icons?i=solidity" width="45" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="45" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" height="45" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" height="45" alt="Ethers.js"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" height="45" alt="OpenZeppelin"/>
 </p>
-
-<!-- Habilidades con iconos -->
-<h2 align="center">Habilidades</h2>
-
-<!-- Fila superior -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" width="65"/>
-  </a>
-</p>
-
-<!-- Segunda fila -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" width="65" />
-    <img src="https://skillicons.dev/icons?i=ts" width="65" />
-  </a>
-</p>
-
-<!-- Tercera fila -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" width="65" />
-    <img src="https://skillicons.dev/icons?i=npm" width="65" />
-    <img src="https://skillicons.dev/icons?i=react" width="65" />
-  </a>
-</p>
-
-<!-- Cuarta fila -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular" width="65" />
-    <img src="https://skillicons.dev/icons?i=nodejs" width="65" />
-    <img src="https://skillicons.dev/icons?i=github" width="65" />
-    <img src="https://skillicons.dev/icons?i=gitlab" width="65" />
-  </a>
-</p>
-
-<!-- Quinta fila -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="65" />
-    <img src="https://skillicons.dev/icons?i=materialui" width="65" />
-    <img src="https://skillicons.dev/icons?i=tailwind" width="65" />
-    <img src="https://skillicons.dev/icons?i=docker" width="65" />
-    <img src="https://skillicons.dev/icons?i=mongodb" width="65" />
-  </a>
-</p>
-
-<!-- Sexta fila -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" width="65" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=openshift" width="65" />
-  </a>
-</p>
-
-
-<!-- Sección de proyectos destacados -->
-<!--<h2>Proyectos Destacados</h2>
-<ul>
-  <li>
-    <strong>Proyecto 1:</strong> <a href="https://asstrom.es/home">asstrom</a>
-    <br />
-    Portafolio web desarrolldo en Angular. Incluye varias conexiones a API como la de wheaterapp, mapbox y restcountries.
-    Ademas incluye una aplicacion de tareas, un login y registro. Todo ello jugando con el localstorage y el sessionstorage.
-  </li>
-</ul> -->
-
-<!-- Sección de contacto -->
-<h2>Contacto</h2>
+**Frontend & Full-Stack**
+ 
 <p>
-  Si deseas ponerte en contacto conmigo, puedes encontrarme en:
-  <ul>
-    <li><a href="https://www.linkedin.com/in/josemanuelmosqueteabreu/">LinkedIn</a></li>
-    <li><a href="jmma1995@gmail.com">Correo Electrónico</a></li>
-  </ul>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,html,css,tailwind" width="360" alt="Frontend stack"/>
+  </a>
 </p>
-
-<!-- Iconos de redes sociales (opcional) -->
+**DevOps & Tools**
+ 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,github,gitlab,mongodb,linux" width="225" alt="DevOps tools"/>
+  </a>
+</p>
+<br/>
+## Featured Projects
+ 
+> 🔨 *Currently building — repos will be published as each project reaches production quality.*
+ 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔐 **Multi-Sig Wallet** | Custom multi-signature wallet with configurable approval thresholds | Solidity, Hardhat, Ethers.js, Angular |
+| 🪙 **ERC-20 Token + DEX** | Custom token with a decentralized exchange for swapping and liquidity | Solidity, OpenZeppelin, React |
+| 🎨 **NFT Marketplace** | Mint, list and trade NFTs with royalty management | Solidity, IPFS, Next.js |
+| 🏦 **DeFi Lending Protocol** | Collateralized lending and borrowing with liquidation mechanics | Solidity, Chainlink Oracles, Hardhat |
+ 
+*Each project includes: comprehensive tests, deployment scripts, architecture documentation and a working frontend.*
+ 
+<br/>
+## Currently Learning
+ 
+- 🔗 Advanced Solidity patterns (upgradeable contracts, gas optimization, security)
+- 🛡️ Smart contract security & auditing
+- ⛓️ DeFi protocol architecture
+- 🧪 Foundry testing framework
+<br/>
+## GitHub Stats
+ 
 <p align="center">
-  <a href="www.linkedin.com/in/josé-manuel-mosquete-abreu-662691166"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
-  <a href="jmma1995@gmail.com"><img src="https://img.shields.io/badge/-Email-red" alt="Email"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+<br/>
+## Let's Connect
+ 
+I'm actively looking for Blockchain Engineer / Solidity Developer roles. Open to remote opportunities worldwide.
+ 
+<p>
+  <a href="https://www.linkedin.com/in/josemanuelmosqueteabreu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jmma1995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
