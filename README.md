@@ -1,5 +1,3 @@
-![Header](./github-header-banner.png)
- 
 <h1 align="center">Hey, I'm Manu 👋</h1>
  
 <p align="center">
@@ -50,7 +48,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
 
 ## Featured Projects
  
-> 🔨 *Currently building — repos will be published as each project reaches production quality.*
+> 🔨 *Currently building.*
  
 | Project | Description | Stack |
 |---------|-------------|-------|
