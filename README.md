@@ -47,6 +47,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
   </a>
 </p>
 <br/>
+
 ## Featured Projects
  
 > 🔨 *Currently building — repos will be published as each project reaches production quality.*
@@ -61,6 +62,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
 *Each project includes: comprehensive tests, deployment scripts, architecture documentation and a working frontend.*
  
 <br/>
+
 ## Currently Learning
  
 - 🔗 Advanced Solidity patterns (upgradeable contracts, gas optimization, security)
@@ -68,6 +70,7 @@ Now I'm channeling that engineering foundation into blockchain. I'm completing a
 - ⛓️ DeFi protocol architecture
 - 🧪 Foundry testing framework
 <br/>
+
 ## GitHub Stats
  
 <p align="center">
